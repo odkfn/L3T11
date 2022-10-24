@@ -1,0 +1,2 @@
+docker build --tag my-project .
+docker run my-project
